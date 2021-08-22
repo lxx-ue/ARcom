@@ -34,7 +34,7 @@ Developed with Unreal Engine 4
 Ссылка на клон проекта UE4 https://drive.google.com/file/d/1e9nxVbpl5pDWE-Dl3ne-yGS7b9kV_2UP/view?usp=sharing
 Ссылка на APK https://drive.google.com/drive/folders/13mdQJcbimBAhs1GUV_VAHVzMMzHv6fs4?usp=sharing
 
-cd default_readme
+
 ...
 
 РАЗРАБОТЧИКИ Афурузанов Элшад, Базин Даниил
