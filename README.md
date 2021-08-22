@@ -1,4 +1,4 @@
-# NovTravel
+# AR Travel
 
 Developed with Unreal Engine 4
 Реализованная функциональность
@@ -29,22 +29,12 @@ Developed with Unreal Engine 4
 
 УСТАНОВКА
 
-Установка пакета name
+Установка пакета осуществляется на телефоне. Перенесите папку с APK в хранилище телефона, после установки APK-файла, запустите приложение.
 
-Выполните
-
-sudo apt-get update
-
-sudo apt-get upgrade
-
-sudo apt-get install name1
-
-sudo apt-get install mariadb-client mariadb-server
-
-git clone https://github.com/lxx-ue/ARcom
+Ссылка на клон проекта UE4 https://drive.google.com/file/d/1e9nxVbpl5pDWE-Dl3ne-yGS7b9kV_2UP/view?usp=sharing
+Ссылка на APK https://drive.google.com/drive/folders/13mdQJcbimBAhs1GUV_VAHVzMMzHv6fs4?usp=sharing
 
 cd default_readme
-
 ...
 
 РАЗРАБОТЧИКИ Афурузанов Элшад, Базин Даниил
